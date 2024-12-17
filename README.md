@@ -1,2 +1,3 @@
-# is-github-down
-Use this repo to check if Github is down
+# No.
+
+If you can see this, that means Github is accessible
